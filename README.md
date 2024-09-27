@@ -13,8 +13,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-Execução">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
 </p>
 
 ## 🚀 Tecnologias 
@@ -28,22 +26,13 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 Este projeto foi desenvolvido com base no curso de  *__Análise e Ciencia de Dados__* da [PUC-RIO](https://www.puc-rio.br/index.html). O notebook desse projeto tem por objetivo realizar uma Análise exploratória de dados de um dataset com fatores que poderiam influenciar
 no resultado de exames de alunos.
+
+O dataset utilizado foi https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/code
   
  
 ## ♟️ Execução
 
-1. Faça o dowload e extração do projeto. 
-2. Abra um terminal ([Git Bash](https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash) é o recomendado, pois é colorido)
-3. Entre no diretório /bin do projeto (comando: cd bin)
-4. Após entrar no diretório, digite Java application/Program para rodar a aplicação (O java precisa estar na versão 11 ou superior).
-5. Bom Jogo!
+1. Acesse o repositório do Github: https://github.com/fasantosgh/MVP_AnaliseDados
+2. Abra o arquivo MVP_AnaliseDados no Colab: https://colab.research.google.com/drive/
+3. Execute as células na ordem
 
-## 🖼️ Imagens
-
-| Tela Inicial  | Tratamento de Erro | Check | 
-|---|---|---|
-| ![tela-inicial](https://user-images.githubusercontent.com/54365007/90513167-9787d800-e135-11ea-8a35-ebf67854ea14.PNG)  | ![tratamento-erro](https://user-images.githubusercontent.com/54365007/90513194-9f477c80-e135-11ea-8383-9f3515959954.PNG)  | ![check](https://user-images.githubusercontent.com/54365007/90513197-9fe01300-e135-11ea-9fc8-5beef82c6557.PNG)  | 
-
-| Jogada Roque (Castling)  | Jogando... | Jogadas Finais | 
-|---|---|---|
-| ![rook-moving](https://user-images.githubusercontent.com/54365007/90513202-a078a980-e135-11ea-8156-e130702f7b64.PNG)  | ![jogo-continuo](https://user-images.githubusercontent.com/54365007/90513198-9fe01300-e135-11ea-9626-a02c3bb40636.PNG)  | ![late-game](https://user-images.githubusercontent.com/54365007/90513199-a078a980-e135-11ea-8b69-9590e1f11081.PNG)  | 
