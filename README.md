@@ -34,6 +34,6 @@ O dataset utilizado foi https://www.kaggle.com/datasets/lainguyn123/student-perf
 ## 👉 Execução
 
 1. Acesse o repositório do Github: https://github.com/fasantosgh/MVP_AnaliseDados
-2. Abra o arquivo MVP_AnaliseDados no Colab: https://colab.research.google.com/drive/
+2. Abra o arquivo MVP_AnaliseDados_versãofinal no Colab: https://colab.research.google.com/drive/
 3. Execute as células na ordem
 
