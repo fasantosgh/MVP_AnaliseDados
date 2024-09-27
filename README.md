@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-Execução">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-Execução">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Tecnologias 
@@ -23,15 +23,15 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Python
 
 
-💻 Projeto
+## 💻 Projeto
 
-Este projeto foi desenvolvido com base no curso de  *__Análise e Ciencia de Dados__* da [PUC-RIO](https://www.puc-rio.br/index.html). O notebook desse projeto tem por objetivo realizar uma Análise exploratória de dados de um dataset com fatores que poderiam influenciar
+Este projeto foi desenvolvido com base no curso de  *__Ciencia de Dados e Analytics__* da [PUC-RIO](https://www.puc-rio.br/index.html). O notebook desse projeto tem por objetivo realizar uma Análise exploratória de dados de um dataset com fatores que poderiam influenciar
 no resultado de exames de alunos.
 
 O dataset utilizado foi https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/code
   
  
-👉 Execução
+## 👉 Execução
 
 1. Acesse o repositório do Github: https://github.com/fasantosgh/MVP_AnaliseDados
 2. Abra o arquivo MVP_AnaliseDados no Colab: https://colab.research.google.com/drive/
